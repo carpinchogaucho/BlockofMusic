@@ -1,0 +1,4 @@
+name: blockofmusic
+version: '${project.version}'
+main: me.lexo.Blockofmusic
+api-version: '1.19'
